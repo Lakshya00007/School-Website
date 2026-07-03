@@ -1,4 +1,4 @@
-# 🏫 The Delhi Public School Society — Website
+# 🏫 The Delhi Public School Demo website 
 
 A fully functional and responsive multi-page website for **The Delhi Public School Society (DPS)**, 
 built with pure HTML, CSS, and vanilla JavaScript. Inspired by [dpsfamily.org](https://dpsfamily.org).
@@ -8,8 +8,6 @@ built with pure HTML, CSS, and vanilla JavaScript. Inspired by [dpsfamily.org](h
 ## 🌐 Live Preview
 
 > Open `dps-society-website.html` directly in any browser — no build tools or dependencies required.
-
----
 
 ## 📄 Pages Included
 
